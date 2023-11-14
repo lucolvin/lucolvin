@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning life
+- 🌱 I’m currently learning life... and PHP for some reason
 
 <!--
 **lucolvin/lucolvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
