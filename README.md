@@ -4,7 +4,7 @@ Software Dev Student
 --------------------
 I am currently pursuing a degree in Software Development with a minor in Cybersecurity at Olivet Nazarene University.* 
 *   🌍  I'm based in Bourbonnais IL
-*   🖥️  See my portfolio at [My Website](http://lukecolvin.me)
+*   🖥️  See my portfolio on [My Website](http://lukecolvin.me)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Where am I?
