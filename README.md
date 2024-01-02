@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Dev Student
 --------------------
 I am currently pursuing a degree in Software Development with a minor in Cybersecurity at Olivet Nazarene University.
-* 
+
 *   🌍  I'm based in Bourbonnais IL
 *   🖥️  See my portfolio on [My Website](http://lukecolvin.me)
 *   🧠  I'm learning Python
