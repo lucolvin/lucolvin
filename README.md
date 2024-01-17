@@ -111,6 +111,10 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/lcolvin">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee">
-</a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/lcolvin">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee">
+  </a>
+</p>
+
+
