@@ -6,7 +6,7 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
 
 *   🌍  I'm based in Bourbonnais IL
 *   🖥️  See my portfolio on [My Website](http://lukecolvin.me)
-*   🧠  I'm learning Java and C#
+*   🧠  I'm learning Python, Java, C++, and C#
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Where am I?
 
