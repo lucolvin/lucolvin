@@ -10,6 +10,8 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Where am I?
 
+---
+
 ### Skills
 
 <p align="left">
@@ -55,6 +57,8 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
   </a>
 </p>
 
+---
+
 ### Socials
 
 <p align="left"> 
@@ -97,7 +101,7 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
   </a>
 </p>
 
-
+---
 
 ### Badges
 <div align="center">
