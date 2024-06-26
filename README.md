@@ -4,7 +4,7 @@ Software Dev Student
 --------------------
 I am currently pursuing a degree in Software Development with a minor in Cyber Defense at Olivet Nazarene University.
 
-*   🌍  I'm based in Chicago IL
+*   🌍  I'm based in the greater Chicago IL area.
 *   🖥️  Check out my [Website](http://lukecolvin.me)
 *   🧠  I'm learning Python, Java, C++, and C#
 *   🤝  I'm open to collaborating on interesting projects
