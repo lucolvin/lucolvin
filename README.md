@@ -8,7 +8,6 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
 *   🖥️  Check out my [Website](http://lukecolvin.me)
 *   🧠  I'm learning Python, Java, C++, and C#
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  I use Arch btw
 
 ---
 
