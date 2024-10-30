@@ -12,7 +12,7 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
 ---
 
 ### code::stats
-![Code::Stats](https://codestats-readme.wegfan.cn/history-graph/lcolvin?history_days=30&width=850&height=300&bg_color=ffffff&text_color=000000)
+![Code::Stats](https://codestats-readme.wegfan.cn/history-graph/lcolvin?history_days=30&width=850&height=300&bg_color=000000&text_color=ffffff)
 
 ### Skills
 
