@@ -6,7 +6,7 @@ I am currently pursuing a degree in Software Development with a minor in Cyberse
 
 *   🌍  I'm based in the greater Chicago IL area.
 *   🖥️  Check out my [Website](http://lukecolvin.me)
-*   🧠  I'm learning Python, Java, C++, and C#
+*   🧠  I'm learning Java, React, and C#
 *   🤝  I'm open to collaborating on interesting projects
 
 ---
