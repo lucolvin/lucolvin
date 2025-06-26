@@ -44,12 +44,12 @@ jobs:
             snake-dark.svg?palette=github-dark&color_snake=orange
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Commit and push the generated SVG files to the main branch
-      - name: Commit and push snake SVG files
+          
+     # Commit and push the generated SVG files to the main branch
+        - name: Commit and push snake SVG files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add snake.svg snake-dark.svg
-          git diff --staged --quiet || git commit -m "Update snake animations"
-          git push
+            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add snake.svg snake-dark.svg
+            git diff --staged --quiet || git commit -m "Update snake animations"
+            git push
