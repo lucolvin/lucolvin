@@ -55,4 +55,4 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_user: lcolvin
           plugin_wakatime_sections: time, languages, os, os-graphs, editors, editors-graphs
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 30
