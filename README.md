@@ -1,4 +1,8 @@
 <div align="center">
   <img src="/github-metrics.svg" alt="Metrics" />
-  <img src="/snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source srcset="/snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="/snake.svg" media="(prefers-color-scheme: light)">
+    <img src="/snake.svg" alt="Snake animation" />
+  </picture>
 </div>
