@@ -1,13 +1,13 @@
-<!-- <div align="center">
+<div align="center">
   <img src="/github-metrics.svg" alt="Metrics" />
   <picture>
     <source srcset="/snake-dark.svg" media="(prefers-color-scheme: dark)">
     <source srcset="/snake.svg" media="(prefers-color-scheme: light)">
     <img src="/snake.svg" alt="Snake animation" />
   </picture>
-</div> -->
+</div>
 
-
+<!-- 
 # Hi, I'm Luke
 
 **Web Developer | Open Source Enthusiast | Lifelong Learner**
@@ -49,4 +49,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=laptop&logoColor=white)](https://lukecolvin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucolvin/)
 
----
+--- -->
