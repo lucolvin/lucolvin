@@ -30,8 +30,10 @@
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucolvin&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucolvin&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucolvin&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucolvin&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</p>
 
 ---
 
