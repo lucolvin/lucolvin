@@ -15,7 +15,7 @@
 ## Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `C++` `HTML` `CSS`
+`JavaScript` `TypeScript` `Python` `C++` `HTML` `CSS` `C++` `Java` `PHP` `C#`
 
 **Frameworks & Libraries:**  
 `React` `Next.js` `Node.js` `Express` `Flask`
