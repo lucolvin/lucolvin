@@ -8,7 +8,7 @@
 - Currently working on my undergrad in software development and cyber-security
 - Interests: **Web Development, DevOps, AI, and Automation**
 - Background: **Computer Science Student / Fullstack Development / Hobbyist**
-- Fun fact: **I am forklift certified... At least I used to be...**
+- Fun fact: **I am forklift certified**
 
 ---
 
