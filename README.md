@@ -1,6 +1,6 @@
 # Hi, I'm Luke
 
-**Web Developer | Open Source Enthusiast | Lifelong Learner**
+**Web Developer | Software Developer | Open Source Enthusiast**
 
 ---
 
