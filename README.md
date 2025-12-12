@@ -6,9 +6,8 @@
 
 ## About Me
 - Currently working on my undergrad in software development and cyber-security
-- Interests: **Web Development, DevOps, AI, and Automation**
+- Interests: **Web Development, DevOps, AI, and Automation, Self Hosting**
 - Background: **Computer Science Student / Fullstack Development / Hobbyist**
-- Fun fact: **I am forklift certified**
 
 ---
 
