@@ -6,7 +6,7 @@
 
 ## About Me
 - Currently working on my undergrad in software development and cyber-security
-- Interests: **Web Development, DevOps, AI, and Automation, Self Hosting**
+- Interests: **Web Development, DevOps, AI, Automation, and Self Hosting**
 - Background: **Computer Science Student / Fullstack Development / Hobbyist**
 
 ---
