@@ -1,8 +1,9 @@
+<div align="center">
+  
 # Hi, I'm Luke
 
-**Web Developer | Software Developer | Open Source Enthusiast**
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&color=72FF7C&background=49FFD600&center=true&vCenter=true&random=true&width=435&lines=Open+Source+Enthusiast;Computer+Science+Student;Selfhoster)](https://git.io/typing-svg)
+</div>
 
 ## About Me
 - Currently working on my undergrad in software development and cyber-security
@@ -14,25 +15,23 @@
 ## Tech Stack
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `C++` `HTML` `CSS` `C++` `Java` `PHP` `C#`
+`JavaScript` `TypeScript` `Python` `C++` `HTML` `CSS` `C` `Java` `PHP` `C#`
 
 **Frameworks & Libraries:**  
 `React` `Next.js` `Node.js` `Express` `Flask`
 
 **Tools & Platforms:**  
-`Docker` `Linux` `Git` `VS Code` `Vite` `Postman`
+`Docker` `Linux` `Git` `VS Code` `Unraid` `Proxmox` `Pangolin` `Authentik`
 
 **Databases:**  
 `PostgreSQL` `MongoDB` `SQLite`
 
----
+<!-- ## GitHub Stats
 
-## GitHub Stats
-
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=lucolvin&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucolvin&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucolvin&layout=compact&theme=radical" alt="Top Languages" width="48%"> -->
+<!-- </p> -->
 
 ---
 
