@@ -42,6 +42,12 @@
 ---
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucolvin&show_icons=true&theme=gotham)
+
+</div>
+
+<div align="center">
   <!-- <img src="/github-metrics.svg" alt="Metrics" /> -->
   <picture>
     <source srcset="/snake-dark.svg" media="(prefers-color-scheme: dark)">
