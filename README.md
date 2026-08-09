@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Luke
+# Hi, I'm Alex
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&pause=1000&color=72FF7C&background=49FFD600&center=true&vCenter=true&random=true&width=435&lines=Open+Source+Enthusiast;Computer+Science+Student;Selfhoster)](https://git.io/typing-svg)
 </div>
